@@ -25,6 +25,8 @@ namespace inheritanceProblems
             plane1.Move();
             Console.WriteLine("Aircraft " + plane1.GetDistanceTraveled());
 
+            Appliances stove = new Appliances();
+
 
 
         }
