@@ -22,5 +22,9 @@ namespace inheritanceProblems
         {
             distanceTraveled += movementSpeed * waterDrag;
         }
+        public Boat()
+        {
+
+        }
     }
 }
